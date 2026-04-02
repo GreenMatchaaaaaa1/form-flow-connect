@@ -1,0 +1,48 @@
+{
+  "version": "2",
+  "flowTitle": "",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "created": 1774952955421,
+        "properties": {
+          "New Field 1": {
+            "type": "string",
+            "title": "New Field 1",
+            "created": 1774952962092
+          }
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a383e4cf-7c6f-4844-8065-4228b2dad975",
+      "valid": false,
+      "displayName": "Add Task",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {}
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": []
+        }
+      },
+      "key": "trigger"
+    }
+  ]
+}

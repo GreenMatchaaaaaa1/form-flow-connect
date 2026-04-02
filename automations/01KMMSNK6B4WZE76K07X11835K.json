@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "flowTitle": "Form Submission Handler",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Input for name"
+          },
+          "email": {
+            "type": "string",
+            "description": "Input for email"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c3d4-e5f6-7890-abcd-ef1234567891",
+      "valid": false,
+      "displayName": "Create Task in Form Submissions",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@eml01": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"email\"] }}"
+              },
+              "rank": "1",
+              "fieldId": "@eml01"
+            },
+            "@name1": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"name\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@name1"
+            }
+          },
+          "content": "{{ trigger[\"body\"][\"name\"] }} — {{ trigger[\"body\"][\"email\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "RYcm6PQnDztdaFeV"
+          }
+        }
+      }
+    },
+    {
+      "name": "032181a6-e98a-4722-9ecb-3de92e61577c",
+      "valid": true,
+      "displayName": "Delay",
+      "type": "SLEEP",
+      "settings": {
+        "timeSetting": {
+          "type": "duration",
+          "duration": "PT2S"
+        }
+      }
+    }
+  ],
+  "variables": {
+    "RYcm6PQnDztdaFeV": {
+      "id": "RYcm6PQnDztdaFeV",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}
