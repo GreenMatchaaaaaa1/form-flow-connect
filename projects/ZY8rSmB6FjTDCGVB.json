@@ -1,0 +1,1426 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "c1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "text": {
+          "ops": [
+            {
+              "insert": "BSC 2026 Schedule & Prizing"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 1 CC",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 1 Championship Challenge",
+              "@dts01": "Jan 30 - Feb 1, 2026",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "cc"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 1 MQ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 1 Monthly Qualifier",
+              "@dts01": "Feb 7-8, 2026",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mq"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000003",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 1 MF",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 1 Monthly Finals",
+              "@dts01": "Feb 14-22, 2026 (varies by region)",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mf"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000004",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 2 CC",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 2 Championship Challenge",
+              "@dts01": "Feb 27 - Mar 1, 2026",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "cc"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000005",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 2 MQ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 2 Monthly Qualifier",
+              "@dts01": "Mar 7-8, 2026",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mq"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 2 MF",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 2 Monthly Finals",
+              "@dts01": "Mar 14-22, 2026 (varies by region)",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mf"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000007",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 3 CC",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 3 Championship Challenge",
+              "@dts01": "Mar 27-29, 2026",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "cc"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000008",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 3 MQ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 3 Monthly Qualifier",
+              "@dts01": "Apr 4-5, 2026",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mq"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000009",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 3 MF",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 3 Monthly Finals",
+              "@dts01": "Apr 11-19, 2026 (varies by region)",
+              "@splt1": "Spring",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mf"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000010",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Brawl Cup",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Brawl Cup — 12 Teams, $100,000 Prize Pool",
+              "@dts01": "May 2026",
+              "@splt1": "Mid-Season",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "bc"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000011",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 4 CC",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 4 Championship Challenge",
+              "@dts01": "May 29-31, 2026",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "cc"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000012",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 4 MQ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 4 Monthly Qualifier",
+              "@dts01": "Jun 6-7, 2026",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mq"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000013",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 4 MF",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 4 Monthly Finals",
+              "@dts01": "Jun 13-21, 2026 (varies by region)",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mf"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000014",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 5 CC",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 5 Championship Challenge",
+              "@dts01": "Jun 26-28, 2026",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "cc"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000015",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 5 MQ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 5 Monthly Qualifier",
+              "@dts01": "Jul 4-5, 2026",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mq"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000016",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 5 MF",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 5 Monthly Finals",
+              "@dts01": "Jul 11-19, 2026 (varies by region)",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mf"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000017",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 6 CC",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 6 Championship Challenge",
+              "@dts01": "Jul 24-26, 2026",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "cc"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000018",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 6 MQ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 6 Monthly Qualifier",
+              "@dts01": "Aug 1-2, 2026",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mq"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000019",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Season 6 MF",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Season 6 Monthly Finals",
+              "@dts01": "Aug 8-16, 2026 (varies by region)",
+              "@splt1": "Summer",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "mf"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000020",
+            "text": {
+              "ops": [
+                {
+                  "insert": "LCQ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "Last Chance Qualifier — 8 Teams, $18,000 Prize Pool",
+              "@dts01": "October 2026",
+              "@splt1": "Post-Season",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "lcq"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2000001-0001-4001-8001-000000000021",
+            "text": {
+              "ops": [
+                {
+                  "insert": "World Finals",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@evtNm": "World Finals — 12 Teams, $1,000,000 Prize Pool",
+              "@dts01": "November 2026",
+              "@splt1": "Finals",
+              "@stg01": {
+                "type": "Select",
+                "optionId": "wf"
+              }
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "fields": {
+      "@evtNm": {
+        "displayName": "Event",
+        "type": "string"
+      },
+      "@dts01": {
+        "displayName": "Dates",
+        "type": "string"
+      },
+      "@splt1": {
+        "displayName": "Split",
+        "type": "string"
+      },
+      "@stg01": {
+        "displayName": "Stage",
+        "type": "Select",
+        "options": {
+          "cc": {
+            "id": "cc",
+            "name": "Championship Challenge",
+            "rank": "0",
+            "color": "#f59e0b"
+          },
+          "mq": {
+            "id": "mq",
+            "name": "Monthly Qualifier",
+            "rank": "1",
+            "color": "#3b82f6"
+          },
+          "mf": {
+            "id": "mf",
+            "name": "Monthly Finals",
+            "rank": "2",
+            "color": "#8b5cf6"
+          },
+          "bc": {
+            "id": "bc",
+            "name": "Brawl Cup",
+            "rank": "3",
+            "color": "#ef4444"
+          },
+          "lcq": {
+            "id": "lcq",
+            "name": "Last Chance Qualifier",
+            "rank": "4",
+            "color": "#f97316"
+          },
+          "wf": {
+            "id": "wf",
+            "name": "World Finals",
+            "rank": "5",
+            "color": "#10b981"
+          }
+        }
+      }
+    },
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@evtNm": {
+            "id": "/attributes/@evtNm",
+            "fieldPath": "/attributes/@evtNm",
+            "rank": "z"
+          },
+          "/attributes/@dts01": {
+            "id": "/attributes/@dts01",
+            "fieldPath": "/attributes/@dts01",
+            "rank": "zV"
+          },
+          "/attributes/@splt1": {
+            "id": "/attributes/@splt1",
+            "fieldPath": "/attributes/@splt1",
+            "rank": "zk"
+          },
+          "/attributes/@stg01": {
+            "id": "/attributes/@stg01",
+            "fieldPath": "/attributes/@stg01",
+            "rank": "zs"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@evtNm": {
+            "id": "/attributes/@evtNm",
+            "fieldPath": "/attributes/@evtNm",
+            "rank": "z"
+          },
+          "/attributes/@dts01": {
+            "id": "/attributes/@dts01",
+            "fieldPath": "/attributes/@dts01",
+            "rank": "zV"
+          },
+          "/attributes/@splt1": {
+            "id": "/attributes/@splt1",
+            "fieldPath": "/attributes/@splt1",
+            "rank": "zk"
+          },
+          "/attributes/@stg01": {
+            "id": "/attributes/@stg01",
+            "fieldPath": "/attributes/@stg01",
+            "rank": "zs"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@evtNm": {
+            "id": "/attributes/@evtNm",
+            "fieldPath": "/attributes/@evtNm",
+            "rank": "z"
+          },
+          "/attributes/@dts01": {
+            "id": "/attributes/@dts01",
+            "fieldPath": "/attributes/@dts01",
+            "rank": "zV"
+          },
+          "/attributes/@splt1": {
+            "id": "/attributes/@splt1",
+            "fieldPath": "/attributes/@splt1",
+            "rank": "zk"
+          },
+          "/attributes/@stg01": {
+            "id": "/attributes/@stg01",
+            "fieldPath": "/attributes/@stg01",
+            "rank": "zs"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@evtNm": {
+            "id": "/attributes/@evtNm",
+            "fieldPath": "/attributes/@evtNm",
+            "rank": "z"
+          },
+          "/attributes/@dts01": {
+            "id": "/attributes/@dts01",
+            "fieldPath": "/attributes/@dts01",
+            "rank": "zV"
+          },
+          "/attributes/@splt1": {
+            "id": "/attributes/@splt1",
+            "fieldPath": "/attributes/@splt1",
+            "rank": "zk"
+          },
+          "/attributes/@stg01": {
+            "id": "/attributes/@stg01",
+            "fieldPath": "/attributes/@stg01",
+            "rank": "zs"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@evtNm": {
+            "id": "/attributes/@evtNm",
+            "fieldPath": "/attributes/@evtNm",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@dts01": {
+            "id": "/attributes/@dts01",
+            "fieldPath": "/attributes/@dts01",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@splt1": {
+            "id": "/attributes/@splt1",
+            "fieldPath": "/attributes/@splt1",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@stg01": {
+            "id": "/attributes/@stg01",
+            "fieldPath": "/attributes/@stg01",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@evtNm": {
+            "id": "/attributes/@evtNm",
+            "fieldPath": "/attributes/@evtNm",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@dts01": {
+            "id": "/attributes/@dts01",
+            "fieldPath": "/attributes/@dts01",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@splt1": {
+            "id": "/attributes/@splt1",
+            "fieldPath": "/attributes/@splt1",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@stg01": {
+            "id": "/attributes/@stg01",
+            "fieldPath": "/attributes/@stg01",
+            "rank": "zs",
+            "hidden": false
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📃"
+    }
+  }
+}

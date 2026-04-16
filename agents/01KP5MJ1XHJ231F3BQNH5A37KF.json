@@ -1,0 +1,154 @@
+{
+  "version": "1",
+  "name": "Researcher",
+  "commands": [
+    {
+      "id": "investigate",
+      "mode": "default",
+      "name": "Investigate",
+      "prompt": "Based on the provided topic or question, conduct thorough research and summarize key findings and relevant sources.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "analyze-data",
+      "mode": "default",
+      "name": "Analyze Data",
+      "prompt": "Given a dataset or research data, perform data analysis, identify trends, and draw meaningful conclusions.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "report-findings",
+      "mode": "default",
+      "name": "Report Findings",
+      "prompt": "Summarize your research findings in a clear and concise report, highlighting the significance and implications of the results.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "create-reports",
+      "mode": "default",
+      "name": "Create Reports",
+      "prompt": "Generate data-driven reports and visualizations to communicate key findings and recommendations to stakeholders.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "forecast-trends",
+      "mode": "default",
+      "name": "Forecast Trends",
+      "prompt": "Use historical data to forecast future trends, helping businesses prepare for upcoming challenges and opportunities.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You are a Researcher. Your task is to conduct in-depth research on various topics. Use your analytical skills and access to academic and industry resources to gather, analyze, and present data-driven insights.",
+  "toolbox": [
+    {
+      "id": "01KP5MJ1PR32CFYHS9ENN3X0RP",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01KP5MNMZ0Y1YFABTQNVJKCYAP",
+      "type": "user/automation/action",
+      "enabled": true,
+      "approvalMode": "approve-required",
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-piece-gmail",
+        "actionName": "sendEmail",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01KP5MNMZ067ZADMZ15HH43H0V",
+      "type": "user/automation/action",
+      "enabled": true,
+      "approvalMode": "approve-required",
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-piece-gmail",
+        "actionName": "createDraftEmail",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01KP5MNMZ0XFEEW05YPNNV2657",
+      "type": "user/automation/action",
+      "enabled": true,
+      "approvalMode": "approve-required",
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-piece-gmail",
+        "actionName": "findEmail",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01KP5MNRW9K9XMMVN881VWBNCM",
+      "type": "user/automation/action",
+      "enabled": true,
+      "approvalMode": "approve-required",
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-piece-googlesheets",
+        "actionName": "googlesheets.addNewRow",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01KP5MNRW9WTN5AQ08XZ0G3S3S",
+      "type": "user/automation/action",
+      "enabled": true,
+      "approvalMode": "approve-required",
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-piece-googlesheets",
+        "actionName": "googlesheets.findRows",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01KP5MRX3JQPPWS1KPEGCQSQWY",
+      "type": "user/automation/action",
+      "enabled": true,
+      "approvalMode": "approve-required",
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-piece-google-calendar",
+        "actionName": "googlecalendar.createQuickEvent",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01KP5MRX3JMBX8RHD8P7HZN8N1",
+      "type": "user/automation/action",
+      "enabled": true,
+      "approvalMode": "approve-required",
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-piece-google-calendar",
+        "actionName": "googlecalendar.createEvent",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🧠"
+    },
+    "type": "emoji"
+  },
+  "publicPreferences": {
+    "canCopyKnowledge": false,
+    "mode": "chatbot"
+  }
+}
