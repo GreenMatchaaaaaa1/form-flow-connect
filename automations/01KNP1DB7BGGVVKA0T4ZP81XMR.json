@@ -29,7 +29,7 @@
       "type": "PIECE",
       "settings": {
         "pieceName": "@taskade/automade-internalpiece-taskade",
-        "pieceVersion": "1.0.0",
+        "pieceVersion": "BLANK",
         "actionName": "task.create",
         "input": {
           "fields": {
@@ -52,7 +52,7 @@
           "position": "afterbegin",
           "projectId": {
             "type": "flow-template-variable-input-type",
-            "id": "RYcm6PQnDztdaFeV"
+            "id": "DhbpTMR3FCJutABy"
           }
         }
       }
@@ -71,8 +71,8 @@
     }
   ],
   "variables": {
-    "RYcm6PQnDztdaFeV": {
-      "id": "RYcm6PQnDztdaFeV",
+    "DhbpTMR3FCJutABy": {
+      "id": "DhbpTMR3FCJutABy",
       "rank": "V",
       "type": "string",
       "format": "taskade-project-id"

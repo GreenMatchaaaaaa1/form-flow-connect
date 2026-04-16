@@ -1,0 +1,1235 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "text": {
+          "ops": [
+            {
+              "insert": "BSC 2026 Rulebook"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b1000001-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "1. Introduction",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000001-0001-4001-8001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Welcome to the official ruleset for Brawl Stars Championship 2026 (BSC). This document outlines all important information for all stages: Championship Challenge (CC), Monthly Qualifiers (MQ), Monthly Finals (MF), Brawl Cup (BC), Last Chance Qualifier (LCQ) and World Finals (WF).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000001-0001-4001-8001-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "All participants that register and partake in the competition automatically agree to follow this ruleset.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000001-0001-4001-8001-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Contact: brawl@blast.tv",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1000002-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "2. General Information",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000002-0001-4001-8001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.1 Definitions",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000010",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Supercell: Supercell Oy, developers of Brawl Stars",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000011",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Administrators (Admins): Team managing and ensuring competition integrity",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000012",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Team/Participants: Collective of 3 players and a coach competing",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000013",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Game: Single instance of competition won by completing the game mode objective",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000014",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Set: Collection of games won by first team winning 2 games in Bo3",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000015",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Match: Overall contest determined by most sets won (Bo1, Bo3, Bo5, Bo7)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000016",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Season: Collection of CC, MQ & MF stages within a one-month period (online)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000017",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Split: Spring Split (Feb-Apr) and Summer Split (Jun-Aug)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "b1000002-0001-4001-8001-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.2 Administrative Authority",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b1000002-0001-4001-8001-000000000021",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "All decisions on interpretation, eligibility, scheduling, staging, and penalties rest solely with Administrators and are final and non-appealable.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1000003-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "3. Participation Eligibility",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000003-0001-4001-8001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.1 Residency",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b1000003-0001-4001-8001-000000000003",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Regions: East Asia (EA), EMEA, North America (NA), South America (SA), Chinese Mainland",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000003-0001-4001-8001-000000000004",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Chinese Mainland residents can only participate in Chinese Mainland region and vice versa",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1000003-0001-4001-8001-000000000005",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Region Lock: Once competing in a region, teams are locked. Changing requires disbanding and forfeiting all points.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "b1000003-0001-4001-8001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.2 Age: Minimum 16 years old by MQ registration close",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000003-0001-4001-8001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.3 Account: One account per player, good standing, no sharing/trading",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000003-0001-4001-8001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.4 Aliases: Max 10 chars (15 with team abbrev), no trademarks or insensitive wording",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1000004-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "4. Tournament Overview",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000004-0001-4001-8001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6 online Seasons and 3 Offline Events. Spring Split: Seasons 1-3 (Feb-Apr). Summer Split: Seasons 4-6 (Jun-Aug).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000004-0001-4001-8001-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Championship Challenge: 15 wins before 4 losses over 3 days, Bo1 format",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000004-0001-4001-8001-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Monthly Qualifiers: Day 1 Single Elim Bo3 (top 16 advance), Day 2 Double Elim Bo5 (32 teams, top 8 advance)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000004-0001-4001-8001-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Monthly Finals: Single Elimination, 8 teams, Bo5, broadcasted",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000004-0001-4001-8001-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Offline Events: Brawl Cup (12 teams, Berlin May 2026), LCQ (8 teams, Oct 2026), World Finals (12 teams, Nov 2026)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1000005-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "5. Team Composition",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000005-0001-4001-8001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MQ: Max 3 Active Players. MF/Offline: Max 5 (3 players + coach + substitute)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000005-0001-4001-8001-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Roster Lock: 2 hours before MQ start, stays locked until MF completion",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000005-0001-4001-8001-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Roster Changes: 3 per year (1 in Spring, 2 in Summer). Unused Spring changes don't carry over.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000005-0001-4001-8001-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Points & Slots: Owned by team (not org), except Club Partners where org owns them",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1000006-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "6. Match Procedure",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000006-0001-4001-8001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Game Version: Always the most up-to-date version",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000006-0001-4001-8001-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Equipment: Mobile phone or tablet only. PC and emulation are banned.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000006-0001-4001-8001-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Brawler Draft: Each player bans 1 brawler per set (blind bans), then selects their brawler",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000006-0001-4001-8001-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Global Match Bans (MF only): Each team bans 2 brawlers for the entire match",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000006-0001-4001-8001-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "New Brawler Releases: Restricted during the season of their release",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000006-0001-4001-8001-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Servers: EA→Tokyo, EMEA→Frankfurt, SA→São Paulo, NA→Dallas TX",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1000007-0001-4001-8001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10. Code of Conduct",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000007-0001-4001-8001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No account sharing, no collusion, no match-fixing, no cheating (DDoS, hacks, exploits)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000007-0001-4001-8001-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No harassment, discrimination, or sexual harassment. Zero tolerance.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000007-0001-4001-8001-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Penalties: Warning → Prize deductions → Points deductions → Suspension → Disqualification",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000007-0001-4001-8001-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No gambling association, no bribery, no impersonation of Supercell",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🖋️"
+    }
+  }
+}
